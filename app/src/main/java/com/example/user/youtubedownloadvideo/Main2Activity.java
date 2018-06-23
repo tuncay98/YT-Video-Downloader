@@ -22,7 +22,6 @@ import com.google.android.youtube.player.YouTubePlayer.ErrorReason;
 import com.google.android.youtube.player.YouTubePlayer.PlaybackEventListener;
 import com.google.android.youtube.player.YouTubePlayer.PlayerStateChangeListener;
 import com.google.android.youtube.player.YouTubePlayer.Provider;
-import  com.google.android.youtube.player.YouTubePlayerSupportFragment;
 import android.app.Activity;
 import  android.view.View;
 
@@ -59,7 +58,7 @@ public class Main2Activity extends YouTubeBaseActivity {
 
                     }
 
-                    public static YouTubePlayerSupportFragment newInstance();
+                    
                 });
 
         Button geri = (Button) findViewById(R.id.geri);

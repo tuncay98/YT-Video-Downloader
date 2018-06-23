@@ -30,7 +30,7 @@ import java.net.URL;
 
 
 public class Main2Activity extends YouTubeBaseActivity {
-    public static final String API_Key = "AIzaSyBmUQ9j-7i5jz9gKwF_aLjIkuoGJeSUqiI";
+    public static final String API_Key = "Your API HERE";
     ProgressDialog pogressDialog;
     @Override
     protected void onCreate(Bundle savedInstanceState) {

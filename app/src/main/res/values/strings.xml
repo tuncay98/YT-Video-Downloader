@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YouTube Download Video And Music</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+</resources>
